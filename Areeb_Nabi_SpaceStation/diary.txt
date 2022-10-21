@@ -1,0 +1,90 @@
+Timestamp 0: 
+
+Timestamp 1: 
+ Ship ID: 100, Type: H, Repair Time: 6
+ Broken Parts: 7 Broken Part List: [ 38 68 72 75 82 86 95 ], has been added to the Queue.
+
+ Repair Bay 1 Status: 
+   Ship ID: 100 is in Repair Bay 1 with a Repair Time of: 6
+
+Timestamp 2: 
+ Ship ID: 101, Type: H, Repair Time: 2
+ Broken Parts: 5 Broken Part List: [ 2 19 67 72 94 ], has been added to the Queue.
+
+ Repair Bay 1 Status: 
+   Ship ID: 100 has 5 timesteps until repaired.
+ Repair Bay 2 Status: 
+   Ship ID: 101 is in Repair Bay 2 with a Repair Time of: 2
+
+Timestamp 3: 
+ Ship ID: 102, Type: R, Repair Time: 6
+ Broken Parts: 7 Broken Part List: [ 53 63 67 115 139 157 195 ], has been added to the Queue.
+
+ Repair Bay 1 Status: 
+   Ship ID: 100 has 4 timesteps until repaired.
+ Repair Bay 2 Status: 
+   Ship ID: 101 has 1 timesteps until repaired.
+ Repair Bay 3 Status: 
+   Ship ID: 102 is in Repair Bay 3 with a Repair Time of: 6
+
+Timestamp 4: 
+
+Timestamp 5: 
+ Ship ID: 103, Type: R, Repair Time: 2
+ Broken Parts: 2 Broken Part List: [ 51 101 ], has been added to the Queue.
+
+ Repair Bay 1 Status: 
+   Ship ID: 100 has 3 timesteps until repaired.
+ Repair Bay 2 Status: 
+   Ship ID: 101 is repaired and is departing Station Zebra.
+ Repair Bay 3 Status: 
+   Ship ID: 102 has 5 timesteps until repaired.
+
+Timestamp 6: 
+ Ship ID: 104, Type: H, Repair Time: 4
+ Broken Parts: 7 Broken Part List: [ 39 52 56 77 83 89 100 ], has been added to the Queue.
+
+ Repair Bay 1 Status: 
+   Ship ID: 100 has 2 timesteps until repaired.
+ Repair Bay 2 Status: 
+   Ship ID: 103 is in Repair Bay 2 with a Repair Time of: 2
+ Repair Bay 3 Status: 
+   Ship ID: 102 has 4 timesteps until repaired.
+
+Timestamp 7: 
+ Ship ID: 105, Type: H, Repair Time: 5
+ Broken Parts: 8 Broken Part List: [ 6 13 40 51 58 61 69 92 ], has been added to the Queue.
+
+ Repair Bay 1 Status: 
+   Ship ID: 100 has 1 timesteps until repaired.
+ Repair Bay 2 Status: 
+   Ship ID: 103 has 1 timesteps until repaired.
+ Repair Bay 3 Status: 
+   Ship ID: 102 has 3 timesteps until repaired.
+
+Timestamp 8: 
+ Ship ID: 106, Type: O, Repair Time: 9
+ Broken Parts: 10 Broken Part List: [ 201 864 376 409 731 425 760 247 837 728 ], has been added to the Queue.
+
+ Ship ID: 107, Type: H, Repair Time: 4
+ Broken Parts: 6 Broken Part List: [ 3 29 50 54 64 81 ], has been added to the Queue.
+
+ Ship ID: 108, Type: K, Repair Time: 8
+ Broken Parts: 7 Broken Part List: [ 18 74 110 138 154 178 196 ], has been added to the Queue.
+
+ Repair Bay 1 Status: 
+   Ship ID: 100 is repaired and is departing Station Zebra.
+ Repair Bay 2 Status: 
+   Ship ID: 103 is repaired and is departing Station Zebra.
+ Repair Bay 3 Status: 
+   Ship ID: 102 has 2 timesteps until repaired.
+
+Timestamp 9: 
+ Repair Bay 1 Status: 
+   Ship ID: 104 is in Repair Bay 1 with a Repair Time of: 4
+ Repair Bay 2 Status: 
+   Ship ID: 105 is in Repair Bay 2 with a Repair Time of: 5
+ Repair Bay 3 Status: 
+   Ship ID: 102 has 1 timesteps until repaired.
+
+Enter Y to run again.

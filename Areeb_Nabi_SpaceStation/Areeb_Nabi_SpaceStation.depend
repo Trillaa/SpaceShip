@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1664769939 source:c:\users\main\onedrive\documents\odu\bek_spacestation\src\bays.cpp
+	"Bays.h"
+
+1664766565 c:\users\main\onedrive\documents\odu\bek_spacestation\include\bays.h
+	<iostream>
+	<Ship.h>
+
+1664644848 c:\users\main\onedrive\documents\odu\bek_spacestation\include\ship.h
+	<list>
+	<iostream>
+	<random>
+	<cmath>
+	<ctime>
+	<iomanip>
+	"Parts.h"
+
+1664769939 source:c:\users\main\onedrive\documents\odu\bek_spacestation\src\ship.cpp
+	"Ship.h"
+
+1664769939 source:c:\users\main\onedrive\documents\odu\bek_spacestation\src\spacestation.cpp
+	"SpaceStation.h"
+
+1664741296 c:\users\main\onedrive\documents\odu\bek_spacestation\include\spacestation.h
+	<iostream>
+	<Bays.h>
+	<vector>
+
+1664769022 source:c:\users\main\onedrive\documents\odu\bek_spacestation\main.cpp
+	<iostream>
+	<queue>
+	<random>
+	<ctime>
+	<fstream>
+	"SpaceStation.h"
+
+1664644628 c:\users\main\onedrive\documents\odu\bek_spacestation\include\parts.h
+	<iostream>
+	<fstream>
+
+1664642618 source:c:\users\main\onedrive\documents\odu\bek_spacestation\src\parts.cpp
+	"Parts.h"
+
+1665446103 source:c:\users\areeb nabi\downloads\bek_spacestation\bek_spacestation\main.cpp
+	<iostream>
+	<queue>
+	<random>
+	<ctime>
+	<fstream>
+	"SpaceStation.h"
+
+1664832709 c:\users\areeb nabi\downloads\bek_spacestation\bek_spacestation\include\spacestation.h
+	<iostream>
+	<Bays.h>
+	<vector>
+
+1664832709 c:\users\areeb nabi\downloads\bek_spacestation\bek_spacestation\include\bays.h
+	<iostream>
+	<Ship.h>
+
+1664832709 c:\users\areeb nabi\downloads\bek_spacestation\bek_spacestation\include\ship.h
+	<list>
+	<iostream>
+	<random>
+	<cmath>
+	<ctime>
+	<iomanip>
+	"Parts.h"
+
+1664832709 c:\users\areeb nabi\downloads\bek_spacestation\bek_spacestation\include\parts.h
+	<iostream>
+	<fstream>
+
+1664832710 source:c:\users\areeb nabi\downloads\bek_spacestation\bek_spacestation\src\bays.cpp
+	"Bays.h"
+
+1665444878 source:c:\users\areeb nabi\downloads\bek_spacestation\bek_spacestation\src\parts.cpp
+	"Parts.h"
+
+1664832710 source:c:\users\areeb nabi\downloads\bek_spacestation\bek_spacestation\src\ship.cpp
+	"Ship.h"
+
+1664832710 source:c:\users\areeb nabi\downloads\bek_spacestation\bek_spacestation\src\spacestation.cpp
+	"SpaceStation.h"
+
+1665444878 source:c:\users\areeb nabi\desktop\uni\fall 2022\cs 361\areeb_nabi_spacestation\areeb_nabi_spacestation\src\parts.cpp
+	"Parts.h"
+
+1665446550 c:\users\areeb nabi\desktop\uni\fall 2022\cs 361\areeb_nabi_spacestation\areeb_nabi_spacestation\include\parts.h
+	<iostream>
+	<fstream>
+
+1665449199 source:c:\users\areeb nabi\desktop\uni\fall 2022\cs 361\areeb_nabi_spacestation\areeb_nabi_spacestation\src\bays.cpp
+	"Bays.h"
+
+1665447506 c:\users\areeb nabi\desktop\uni\fall 2022\cs 361\areeb_nabi_spacestation\areeb_nabi_spacestation\include\bays.h
+	<iostream>
+	<Ship.h>
+
+1665447291 c:\users\areeb nabi\desktop\uni\fall 2022\cs 361\areeb_nabi_spacestation\areeb_nabi_spacestation\include\ship.h
+	<list>
+	<iostream>
+	<random>
+	<cmath>
+	<ctime>
+	<iomanip>
+	"Parts.h"
+
+1665449281 source:c:\users\areeb nabi\desktop\uni\fall 2022\cs 361\areeb_nabi_spacestation\areeb_nabi_spacestation\src\ship.cpp
+	"Ship.h"
+
+1665449086 source:c:\users\areeb nabi\desktop\uni\fall 2022\cs 361\areeb_nabi_spacestation\areeb_nabi_spacestation\src\spacestation.cpp
+	"SpaceStation.h"
+
+1665447240 c:\users\areeb nabi\desktop\uni\fall 2022\cs 361\areeb_nabi_spacestation\areeb_nabi_spacestation\include\spacestation.h
+	<iostream>
+	<Bays.h>
+	<vector>
+
+1665447291 source:c:\users\areeb nabi\desktop\uni\fall 2022\cs 361\areeb_nabi_spacestation\areeb_nabi_spacestation\main.cpp
+	<iostream>
+	<queue>
+	<random>
+	<ctime>
+	<fstream>
+	"SpaceStation.h"
+
+1665447291 source:c:\users\areeb nabi\desktop\uni\fall 2022\cs 361\areeb_nabi_spacestation\main.cpp
+	<iostream>
+	<queue>
+	<random>
+	<ctime>
+	<fstream>
+	"SpaceStation.h"
+
+1665447240 c:\users\areeb nabi\desktop\uni\fall 2022\cs 361\areeb_nabi_spacestation\include\spacestation.h
+	<iostream>
+	<Bays.h>
+	<vector>
+
+1665447506 c:\users\areeb nabi\desktop\uni\fall 2022\cs 361\areeb_nabi_spacestation\include\bays.h
+	<iostream>
+	<Ship.h>
+
+1665447291 c:\users\areeb nabi\desktop\uni\fall 2022\cs 361\areeb_nabi_spacestation\include\ship.h
+	<list>
+	<iostream>
+	<random>
+	<cmath>
+	<ctime>
+	<iomanip>
+	"Parts.h"
+
+1665446550 c:\users\areeb nabi\desktop\uni\fall 2022\cs 361\areeb_nabi_spacestation\include\parts.h
+	<iostream>
+	<fstream>
+
+1665449199 source:c:\users\areeb nabi\desktop\uni\fall 2022\cs 361\areeb_nabi_spacestation\src\bays.cpp
+	"Bays.h"
+
+1665444878 source:c:\users\areeb nabi\desktop\uni\fall 2022\cs 361\areeb_nabi_spacestation\src\parts.cpp
+	"Parts.h"
+
+1665449281 source:c:\users\areeb nabi\desktop\uni\fall 2022\cs 361\areeb_nabi_spacestation\src\ship.cpp
+	"Ship.h"
+
+1665449086 source:c:\users\areeb nabi\desktop\uni\fall 2022\cs 361\areeb_nabi_spacestation\src\spacestation.cpp
+	"SpaceStation.h"
+
